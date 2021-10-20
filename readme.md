@@ -9,7 +9,7 @@ Desenvolvedora Front-End e estudando o Back-End
   
   **Languages and Tools:**  
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" padding: 10em><br>
   <img align="center" alt="Tshadz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tshadz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Tshadz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
