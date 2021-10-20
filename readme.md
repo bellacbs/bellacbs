@@ -1,5 +1,5 @@
 # Seja bem vindo(a), meu nome é Izabella Brandão
-Desenvolvedora Front-End e estudando o Back-End
+Desenvolvedora Full-Stack
 
 <div>
   <a href="https://github.com/bellacbs">
