@@ -1,5 +1,5 @@
-# Seja bem vindo(a), meu nome é Izabella Brandão
-Desenvolvedora Full-Stack
+# Welcome, my name is Izabella Brandão.
+Full-Stack Developer
 
 <div>
   <a href="https://github.com/bellacbs">
